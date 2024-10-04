@@ -8,7 +8,8 @@ export const imageData = [
                 caption: "Fernsehturm, Berlin, Germany",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 1
+                order: 1,
+                isBanner: false
             },
             {
                 name: "Vienna_Tower_Blog.JPG",
@@ -16,7 +17,8 @@ export const imageData = [
                 caption: "St. Stephen’s Cathedral, Vienna, Austria",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 2
+                order: 2,
+                isBanner: false
             },
             {
                 name: "Hiroshima_Blog.JPG",
@@ -24,7 +26,8 @@ export const imageData = [
                 caption: "Atomic Bomb Dome, Hiroshima, Japan",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 3
+                order: 3,
+                isBanner: false
             },
             {
                 name: "La_Sagrada_Blog.JPG",
@@ -32,7 +35,8 @@ export const imageData = [
                 caption: "La Sagrada Familia, Barcelona, Spain",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 4
+                order: 4,
+                isBanner: false
             },
             {
                 name: "Munich_Tower_Blog.JPG",
@@ -40,7 +44,8 @@ export const imageData = [
                 caption: "New Town Hall, Munich, Germany",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 5
+                order: 5,
+                isBanner: false
             },
             {
                 name: "SA_Tower_Blog.JPG",
@@ -48,7 +53,8 @@ export const imageData = [
                 caption: "Tower of the Americas, San Antonio, Texas, USA",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 6
+                order: 6,
+                isBanner: false
             },
             {
                 name: "Schweppes_Blog.JPG",
@@ -56,7 +62,8 @@ export const imageData = [
                 caption: "Edificio Capitol, Madrid, Spain",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 7
+                order: 7,
+                isBanner: false
             },
             {
                 name: "Prague_Tower_Blog.JPG",
@@ -64,7 +71,8 @@ export const imageData = [
                 caption: "Old Town Hall, Prague, Czechia",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 8
+                order: 8,
+                isBanner: false
             },
             {
                 name: "Seville_Tower_Blog.JPG",
@@ -72,7 +80,8 @@ export const imageData = [
                 caption: "Seville Cathedral, Seville, Spain",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 9
+                order: 9,
+                isBanner: false
             },
             {
                 name: "Tokyo_Temple_Blog.JPG",
@@ -80,7 +89,8 @@ export const imageData = [
                 caption: "Senso-ji Temple Pagoda, Tokyo, Japan",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 10
+                order: 10,
+                isBanner: false
             },
             {
                 name: "TX_Capitol_Blog.JPG",
@@ -88,7 +98,8 @@ export const imageData = [
                 caption: "Texas State Capitol, Austin, Texas, USA",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 11
+                order: 11,
+                isBanner: false
             },
             {
                 name: "Prague_Tower2_Blog.JPG",
@@ -96,7 +107,8 @@ export const imageData = [
                 caption: "Church of Our Lady before Tyn, Prague, Czechia",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 12
+                order: 12,
+                isBanner: true
             },
             {
                 name: "Tokyo_Tower_Blog.JPG",
@@ -104,7 +116,8 @@ export const imageData = [
                 caption: "NTT Docomo Yoyogi Building, Tokyo, Japan",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 13
+                order: 13,
+                isBanner: false
             },
             {
                 name: "nh-capital2.JPG",
@@ -112,7 +125,8 @@ export const imageData = [
                 caption: "New Hampshire State House, Concord, New Hampshire, USA",
                 storeURL: "",
                 variantSize: "portraitWeb",
-                order: 13
+                order: 13,
+                isBanner: false
             }
         ]
     },
