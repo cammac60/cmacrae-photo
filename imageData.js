@@ -1,21 +1,36 @@
 export const imageData = [
     {
-        category: "Architechture",
-        images: []
+        category: "Towers",
+        images: [
+            {
+                name: "Berlin_Tower2_Blog.JPG",
+                id: "e3151948-a74e-4d60-0532-73e3de195c00",
+                caption: "Fernsehturm, Berlin, Germany",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 1
+            }
+        ]
     },
     {
-        category: "Landscape",
-        images: []
+        category: "Architechture",
+        images: [
+
+        ]
     },
     {
         category: "Street",
-        images: []
+        images: [
+
+        ]
     },
     {
-        category: "Towers",
-        images: []
+        category: "Landscape",
+        images: [
+            
+        ]
     }
-]
+];
 
 
 
