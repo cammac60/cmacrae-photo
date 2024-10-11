@@ -368,7 +368,213 @@ export const imageData = [
     {
         category: "Landscape",
         images: [
-            
+            {
+                name: "La_segrada3_Blog.JPG",
+                id: "57ae8729-72c6-478e-2e39-c7e873254700",
+                caption: "Barcelona, Spain",
+                storeURL: "",
+                variantSize: "landscapeWeb",
+                order: 1,
+                isBanner: false
+            },
+            {
+                name: "Old_San_Juan1_Blog.JPG",
+                id: "ae6d5b40-491a-4a2b-8dc6-7727b0c7bc00",
+                caption: "San Juan, Puerto Rico",
+                storeURL: "",
+                variantSize: "landscapeWeb",
+                order: 2,
+                isBanner: false
+            },
+            {
+                name: "Seoul_Park_Blog.JPG",
+                id: "518e0e3c-4d9f-4eb3-c55e-023d4a6e5200",
+                caption: "Seoul, South Korea",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 3,
+                isBanner: true
+            },
+            {
+                name: "CR_Bridge_Blog.JPG",
+                id: "a59098e3-c7af-4d6f-0ddb-1d1a58f3f300",
+                caption: "Monte Verde, Costa Rica",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 4,
+                isBanner: false
+            },
+            {
+                name: "Breck2_Blog.JPG",
+                id: "e7e1c66b-79d1-4cc5-f599-a853bdb66b00",
+                caption: "Lower Blue Lake, Breckenridge, Colorado, USA",
+                storeURL: "",
+                variantSize: "landscapeWeb",
+                order: 5,
+                isBanner: false
+            },
+            {
+                name: "CA_Tree_Blog.JPG",
+                id: "d7251385-20a2-466b-1651-2565a0781500",
+                caption: "Newbury Park, California, USA",
+                storeURL: "",
+                variantSize: "landscapeWeb",
+                order: 6,
+                isBanner: false
+            },
+            {
+                name: "Kyoto_Water_Blog.JPG",
+                id: "0041df5a-cf85-466c-45ff-9a4604680b00",
+                caption: "Kyoto, Japan",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 7,
+                isBanner: false
+            },
+            {
+                name: "Seoul_Skyline_Blog.JPG",
+                id: "3fea9cd1-b053-42e3-3ae7-a184e261da00",
+                caption: "Seoul, South Korea",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 8,
+                isBanner: false
+            },
+            {
+                name: "Berlin_Park_Blog.JPG",
+                id: "30b1583b-cc31-4088-bc46-d3b7c68dc400",
+                caption: "Berlin, Germany",
+                storeURL: "",
+                variantSize: "landscapeWeb",
+                order: 9,
+                isBanner: false
+            },
+            {
+                name: "Breck_Blog.JPG",
+                id: "ff4610bc-7d9d-4ebc-5c4c-78239b74ea00",
+                caption: "Breckenridge, Colorado, USA",
+                storeURL: "",
+                variantSize: "landscapeWeb",
+                order: 10,
+                isBanner: false
+            },
+            {
+                name: "Seoul_Intersection_Blog.JPG",
+                id: "497aa37b-0b72-4552-3c81-8c8fb031d900",
+                caption: "Seoul, South Korea",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 11,
+                isBanner: false
+            },
+            {
+                name: "La_Sagrada2_Blog.JPG",
+                id: "534c631e-9955-4ef1-47e3-0416bb3dc500",
+                caption: "Barcelona, Spain",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 12,
+                isBanner: false
+            },
+            {
+                name: "Prague_Landscape_Blog.JPG",
+                id: "40cb7b62-4a08-42fb-7e0e-253bddd19900",
+                caption: "Prague, Czechia",
+                storeURL: "",
+                variantSize: "landscapeWeb",
+                order: 13,
+                isBanner: false
+            },
+            {
+                name: "Joshua_Tree_Blog.JPG",
+                id: "878403e2-d415-450f-20d8-1f19888b6700",
+                caption: "Joshua Tree National Park, California, USA",
+                storeURL: "",
+                variantSize: "landscapeWeb",
+                order: 13,
+                isBanner: false
+            },
+            {
+                name: "Sintra_hill_Blog.JPG",
+                id: "445268dc-a607-4c54-da11-4df5c17e8800",
+                caption: "Sintra, Portugal",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 14,
+                isBanner: false
+            },
+            {
+                name: "Seoul_Bridge_Blog.JPG",
+                id: "bf6d9aef-397b-45e6-808a-a5dfbdd8e100",
+                caption: "Seoul, South Korea",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 15,
+                isBanner: false
+            },
+            {
+                name: "Mt_Fuji_Blog.JPG",
+                id: "ddeada38-f6ad-4d21-5c33-2c83ddb38200",
+                caption: "Mt. Fuji, Japan",
+                storeURL: "",
+                variantSize: "landscapeWeb",
+                order: 16,
+                isBanner: false
+            },
+            {
+                name: "Buena_Vista_Blog.JPG",
+                id: "e847505a-7e22-4bfd-fbd4-6518ee8a4300",
+                caption: "Mt. Princeton, Colorado, USA",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 17,
+                isBanner: false
+            },
+            {
+                name: "griffithview2.JPG",
+                id: "61b9b73e-4f5d-47c8-4ed1-83dfe4272500",
+                caption: "Los Angeles, California, USA",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 18,
+                isBanner: false
+            },
+            {
+                name: "expo13.JPG",
+                id: "912515ab-f04b-4079-0e2c-1dfcd19ee300",
+                caption: "Los Angeles, California, USA",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 19,
+                isBanner: false
+            },
+            {
+                name: "Seoul_Night_Blog.JPG",
+                id: "32e79aa3-587d-44ac-00b0-684160692f00",
+                caption: "Seoul, South Korea",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 20,
+                isBanner: false
+            },
+            {
+                name: "glenwoodcanyon2.JPG",
+                id: "9fa85032-2460-4ad4-e4ce-ffd5df10b300",
+                caption: "Glenwood Canyon, Colorado, USA",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 21,
+                isBanner: false
+            },
+            {
+                name: "badlands_Blog.JPG",
+                id: "89ccb86d-1462-4e5f-c23f-eac839446700",
+                caption: "Badlands National Park, South Dakota, USA",
+                storeURL: "",
+                variantSize: "portraitWeb",
+                order: 22,
+                isBanner: false
+            }
         ]
     }
 ];
